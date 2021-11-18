@@ -347,7 +347,7 @@ button {
           align-items: center;
   height: 40px;
   width: 220px;
-  background: url("./img/header/1.jpg");
+  background: url("../img/header/1.jpg");
 }
 
 .dropdown-menu__link {
@@ -402,83 +402,83 @@ button {
 }
 
 .bottom-nav__item:first-child > .dropdown-menu .dropdown-menu__item:nth-child(1) {
-  background: url("./img/header/1.jpg");
+  background: url("../img/header/1.jpg");
 }
 
 .bottom-nav__item:first-child > .dropdown-menu .dropdown-menu__item:nth-child(2) {
-  background: url("./img/header/2.jpg");
+  background: url("../img/header/2.jpg");
 }
 
 .bottom-nav__item:first-child > .dropdown-menu .dropdown-menu__item:nth-child(3) {
-  background: url("./img/header/3.jpg");
+  background: url("../img/header/3.jpg");
 }
 
 .bottom-nav__item:first-child > .dropdown-menu .dropdown-menu__item:nth-child(4) {
-  background: url("./img/header/4.jpg");
+  background: url("../img/header/4.jpg");
 }
 
 .bottom-nav__item:nth-child(2) > .dropdown-menu .dropdown-menu__item:nth-child(1) {
-  background: url("./img/header/2_1.jpg");
+  background: url("../img/header/2_1.jpg");
 }
 
 .bottom-nav__item:nth-child(2) > .dropdown-menu .dropdown-menu__item:nth-child(2) {
-  background: url("./img/header/2_2.jpg");
+  background: url("../img/header/2_2.jpg");
 }
 
 .bottom-nav__item:nth-child(2) > .dropdown-menu .dropdown-menu__item:nth-child(3) {
-  background: url("./img/header/2_3.jpg");
+  background: url("../img/header/2_3.jpg");
 }
 
 .bottom-nav__item:nth-child(2) > .dropdown-menu .dropdown-menu__item:nth-child(4) {
-  background: url("./img/header/2_4.jpg");
+  background: url("../img/header/2_4.jpg");
 }
 
 .bottom-nav__item:nth-child(3) > .dropdown-menu .dropdown-menu__item:nth-child(1) {
-  background: url("./img/header/3_1.jpg");
+  background: url("../img/header/3_1.jpg");
 }
 
 .bottom-nav__item:nth-child(3) > .dropdown-menu .dropdown-menu__item:nth-child(2) {
-  background: url("./img/header/3_2.jpg");
+  background: url("../img/header/3_2.jpg");
 }
 
 .bottom-nav__item:nth-child(3) > .dropdown-menu .dropdown-menu__item:nth-child(3) {
-  background: url("./img/header/3_3.jpg");
+  background: url("../img/header/3_3.jpg");
 }
 
 .bottom-nav__item:nth-child(3) > .dropdown-menu .dropdown-menu__item:nth-child(4) {
-  background: url("./img/header/3_4.jpg");
+  background: url("../img/header/3_4.jpg");
 }
 
 .bottom-nav__item:nth-child(4) > .dropdown-menu .dropdown-menu__item:nth-child(1) {
-  background: url("./img/header/4_1.jpg");
+  background: url("../img/header/4_1.jpg");
 }
 
 .bottom-nav__item:nth-child(4) > .dropdown-menu .dropdown-menu__item:nth-child(2) {
-  background: url("./img/header/4_2.jpg");
+  background: url("../img/header/4_2.jpg");
 }
 
 .bottom-nav__item:nth-child(4) > .dropdown-menu .dropdown-menu__item:nth-child(3) {
-  background: url("./img/header/4_3.jpg");
+  background: url("../img/header/4_3.jpg");
 }
 
 .bottom-nav__item:nth-child(4) > .dropdown-menu .dropdown-menu__item:nth-child(4) {
-  background: url("./img/header/4_4.jpg");
+  background: url("../img/header/4_4.jpg");
 }
 
 .bottom-nav__item:last-child > .dropdown-menu .dropdown-menu__item:nth-child(1) {
-  background: url("./img/header/5_1.jpg");
+  background: url("../img/header/5_1.jpg");
 }
 
 .bottom-nav__item:last-child > .dropdown-menu .dropdown-menu__item:nth-child(2) {
-  background: url("./img/header/5_2.jpg");
+  background: url("../img/header/5_2.jpg");
 }
 
 .bottom-nav__item:last-child > .dropdown-menu .dropdown-menu__item:nth-child(3) {
-  background: url("./img/header/5_3.jpg");
+  background: url("../img/header/5_3.jpg");
 }
 
 .bottom-nav__item:last-child > .dropdown-menu .dropdown-menu__item:nth-child(4) {
-  background: url("./img/header/5_4.jpg");
+  background: url("../img/header/5_4.jpg");
 }
 
 .bottom-menu-active-svg {
@@ -554,17 +554,17 @@ button {
 }
 
 .hero-swiper > .swiper-wrapper > .first-slide {
-  background: url("./img/hero/1.jpg") no-repeat center center;
+  background: url("../img/hero/1.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .hero-swiper > .swiper-wrapper > .second-slide {
-  background: url("./img/hero/2.jpg") no-repeat center center;
+  background: url("../img/hero/2.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .hero-swiper > .swiper-wrapper > .third-slide {
-  background: url("./img/hero/3.jpg") no-repeat center center;
+  background: url("../img/hero/3.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -636,17 +636,17 @@ button {
 
 @media (min-width: 540px) {
   .hero-swiper > .swiper-wrapper > .first-slide {
-    background: url("./img/hero/768/1.jpg") no-repeat center center;
+    background: url("../img/hero/768/1.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .second-slide {
-    background: url("./img/hero/768/2.jpg") no-repeat center center;
+    background: url("../img/hero/768/2.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .third-slide {
-    background: url("./img/hero/768/3.jpg") no-repeat center center;
+    background: url("../img/hero/768/3.jpg") no-repeat center center;
     background-size: cover;
   }
 
@@ -848,17 +848,17 @@ button {
   }
 
   .hero-swiper > .swiper-wrapper > .first-slide {
-    background: url("./img/hero/1024/1.jpg") no-repeat center center;
+    background: url("../img/hero/1024/1.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .second-slide {
-    background: url("./img/hero/1024/2.jpg") no-repeat center center;
+    background: url("../img/hero/1024/2.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .third-slide {
-    background: url("./img/hero/1024/3.jpg") no-repeat center center;
+    background: url("../img/hero/1024/3.jpg") no-repeat center center;
     background-size: cover;
   }
 
@@ -1306,17 +1306,17 @@ button {
   }
 
   .hero-swiper > .swiper-wrapper > .first-slide {
-    background: url("./img/hero/1540/1.jpg") no-repeat center center;
+    background: url("../img/hero/1540/1.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .second-slide {
-    background: url("./img/hero/1540/2.jpg") no-repeat center center;
+    background: url("../img/hero/1540/2.jpg") no-repeat center center;
     background-size: cover;
   }
 
   .hero-swiper > .swiper-wrapper > .third-slide {
-    background: url("./img/hero/1540/3.jpg") no-repeat center center;
+    background: url("../img/hero/1540/3.jpg") no-repeat center center;
     background-size: cover;
   }
 }
